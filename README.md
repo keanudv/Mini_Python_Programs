@@ -5,6 +5,6 @@
 <h3>Description</h3>
 <P>This repository is to document my homework assignment for ICS 169, Introduction to Information Security.</P>
 <br>
-<p>This repository contains mmultiple mini Python programs.</p>
+<p>This repository contains multiple mini Python programs.</p>
 <br>
 <p>Created for fun and experimentation (Trial and Error) practice.</p>
