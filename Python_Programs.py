@@ -16,3 +16,18 @@ elif x >= 60 and x <= 69:
   print("You passed the test with a D! Keep trying your best!")
 else:
   print("You got an F. Please see me after class.")
+
+# Program 2: Simple Calculator
+def cal(val_1, val_2, ope):
+  if ope == "Add" or ope == "add":
+    print(val_1 + val_2)
+  elif ope == "Subtract" or ope == "subtract":
+    print(val_1 - val_2)
+  elif ope == "Multiplky" or ope == "multiply":
+    print(val_1 * val_2)
+  elif ope == "Divide" or ope == "divide":
+    print(val_1 / val_2)
+  else:
+    print("Invalid operation")
+
+cal(val_1 = 100, val_2 = 10, ope = "divide")
