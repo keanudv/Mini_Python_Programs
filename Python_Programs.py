@@ -23,7 +23,7 @@ def cal(val_1, val_2, ope):
     print(val_1 + val_2)
   elif ope == "Subtract" or ope == "subtract":
     print(val_1 - val_2)
-  elif ope == "Multiplky" or ope == "multiply":
+  elif ope == "Multiply" or ope == "multiply":
     print(val_1 * val_2)
   elif ope == "Divide" or ope == "divide":
     print(val_1 / val_2)
