@@ -32,7 +32,7 @@ def cal(val_1, val_2, ope):
 
 cal(val_1 = 100, val_2 = 10, ope = "divide")
 
-#Program 3: Number Printer
+# Program 3: Binary Number Generator
 def binary_generator(length):
   for i in range (2 ** length):
     binary_str = f"{i:0{length}b}"
