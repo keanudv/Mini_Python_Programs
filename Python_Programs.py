@@ -4,7 +4,7 @@
 # This Python file contains a list of mini Python programs for my introductory information security class
 
 # Program 1: Test Score Evaluator
-int(input("Enter your test score: ", x))
+x = int(input("Enter your test score: "))
 
 if x >= 90:
   print("You passed the test with an A! Keep up the good work!")
